@@ -59,3 +59,8 @@
   <em>... With the necessary time, anything else I need.</em>
 </p>
 
+### Connect with me:
+<div>
+  <a href=#><img src="https://img.shields.io/badge/eu.carlos.aug@gmail.com-ff5555?logo=gmail&logoColor=282a36" /></a>
+  <a href="https://www.instagram.com/eu.carlos.aug"><img src="https://img.shields.io/badge/@eu.carlos.aug-ff79c6?logo=instagram&logoColor=282a36" /></a>
+</div>
