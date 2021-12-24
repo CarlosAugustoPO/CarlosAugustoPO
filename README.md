@@ -1,7 +1,5 @@
-### Hi there 👋
 
-<!--
-**CarlosAugustoPO/CarlosAugustoPO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello, welcome to my profile! 👋
 
 Here are some ideas to get you started:
 
