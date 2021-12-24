@@ -55,3 +55,7 @@
   <br>
 </div>
 
+<p align='center'>
+  <em>... With the necessary time, anything else I need.</em>
+</p>
+
